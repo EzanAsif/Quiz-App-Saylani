@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background: url('images/unnamed.png');
-}
 
 .main {
     border: 1px solid #918686;
